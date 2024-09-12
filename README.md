@@ -1,7 +1,3 @@
-Here’s a basic template for a README file for your **Waiter Tip Prediction using Linear Regression** project. This template includes sections commonly found in README files to explain the project, setup instructions, and usage.
-
----
-
 # Waiter Tip Prediction using Linear Regression
 
 ## Project Description
