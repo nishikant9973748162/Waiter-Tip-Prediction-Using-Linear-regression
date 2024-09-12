@@ -1,0 +1,201 @@
+total_bill,tip,payment_method,day,timing,group,gender,occasion,drunk
+1997.79,190,Cash,Sunday,Dinner,Couple,Male,Birthday Party,Drunk
+4763.43,470.3,Cash,Sunday,Lunch,Family,Male,Birthday Party,Normal
+3713.57,370.7,Card,Sunday,Dinner,Family,Male,Anniversary,Drunk
+3073.56,300.6,Card,Sunday,Lunch,Couple,Female,Birthday Party,Normal
+948.89,94.9,Cash,Sunday,Lunch,Couple,Female,Birthday Party,Normal
+948.77,94.7,Cash,Sunday,Dinner,Couple,Male,Birthday Party,Drunk
+478.8,47.6,Cash,Friday,Lunch,Couple,Male,Birthday Party,Normal
+4357.65,430.5,Cash,Saturday,Dinner,Couple,Female,Birthday Party,Drunk
+3085.35,300.1,Cash,Sunday,Dinner,Couple,Female,Birthday Party,Drunk
+3598.75,340,Cash,Monday,Dinner,Couple,Male,Birthday Party,Drunk
+298.81,20,Cash,Tuesday,Dinner,Couple,Female,Birthday Party,Normal
+4855.57,470.3,Cash,Sunday,Dinner,Couple,Male,Birthday Party,Normal
+4195.72,400.3,Card,Sunday,Dinner,Couple,Male,Birthday Party,Drunk
+1219.23,120,Online,Sunday,Dinner,Single,Male,Anniversary,Drunk
+1072.76,90.2,Card,Sunday,Lunch,Family,Male,Anniversary,Normal
+1080.34,100,Online,Sunday,Lunch,Single,Male,Anniversary,Drunk
+1660.36,150.3,Cash,Sunday,Lunch,Couple,Male,Anniversary,Drunk
+2718.83,250.3,Online,Sunday,Dinner,Single,Male,Anniversary,Normal
+2273.34,220.1,Online,Sunday,Dinner,Family,Female,Anniversary,Drunk
+1597.9,150.2,Cash,Sunday,Lunch,Family,Female,Birthday Party,Normal
+3136.89,300.2,Cash,Sunday,Lunch,Family,Male,Festival,Drunk
+869.57,79.9,Cash,Saturday,Lunch,Family,Male,Festival,Normal
+1602.29,150.3,Cash,Saturday,Lunch,Family,Male,Festival,Drunk
+1958.54,190.3,Cash,Saturday,Dinner,Family,Male,Birthday Party,Drunk
+2389.14,230.5,Cash,Sunday,Dinner,Family,Female,Birthday Party,Normal
+3968.84,390.2,Cash,Saturday,Dinner,Friends,Male,Anniversary,Drunk
+1158.43,110.2,Cash,Saturday,Dinner,Friends,Male,Date,Normal
+2668.33,261.1,Card,Monday,Dinner,Friends,Male,Festival,Drunk
+3043.59,300.2,Online,Saturday,Dinner,Friends,Male,Birthday Party,Normal
+422.96,42.1,Card,Friday,Dinner,Family,Female,Birthday Party,Normal
+3116.22,300.1,Online,Saturday,Dinner,Family,Female,Festival,Normal
+1018.52,100.5,Card,Saturday,Lunch,Couple,Male,Date,Normal
+512.25,54,Card,Saturday,Dinner,Couple,Male,Festival,Drunk
+4754.65,450.2,Cash,Saturday,Dinner,Couple,Female,Date,Drunk
+4835.03,490.23,Cash,Saturday,Dinner,Couple,Male,Birthday Party,Drunk
+4080.31,401.5,Cash,Saturday,Dinner,Couple,Male,Date,Drunk
+1662.15,140.3,Cash,Monday,Lunch,Couple,Male,Anniversary,Drunk
+668.83,63.2,Cash,Friday,Dinner,Couple,Female,Birthday Party,Drunk
+3484.32,340.2,Cash,Friday,Lunch,Couple,Male,Birthday Party,Drunk
+2312.73,231.34,Cash,Monday,Dinner,Couple,Female,Birthday Party,Drunk
+785.78,79.2,Cash,Sunday,Lunch,Couple,Male,Birthday Party,Drunk
+2576.85,250.3,Cash,Sunday,Dinner,Family,Male,Birthday Party,Normal
+365.06,30,Cash,Sunday,Dinner,Family,Male,Birthday Party,Normal
+4564.74,400.23,Online,Sunday,Lunch,Family,Female,Birthday Party,Normal
+1442.14,140.3,Online,Sunday,Dinner,Family,Male,Birthday Party,Drunk
+3380.11,300,Cash,Monday,Dinner,Family,Female,Birthday Party,Drunk
+1696.21,150,Online,Monday,Lunch,Family,Female,Birthday Party,Drunk
+2696.33,250.3,Card,Friday,Dinner,Single,Female,Festival,Normal
+2824.21,250.3,Cash,Saturday,Lunch,Family,Male,Anniversary,Normal
+1087.3,100,Cash,Saturday,Dinner,Family,Male,Birthday Party,Drunk
+4854.01,450.2,Card,Saturday,Lunch,Friends,Male,Birthday Party,Normal
+3920.64,310.2,Card,Saturday,Lunch,Friends,Male,Birthday Party,Drunk
+4709.59,450.2,Cash,Friday,Dinner,Single,Male,Anniversary,Drunk
+4495.17,390,Online,Friday,Dinner,Couple,Male,Birthday Party,Normal
+3069.92,300,Cash,Friday,Dinner,Couple,Male,Anniversary,Drunk
+4625,450.3,Card,Saturday,Dinner,Couple,Male,Birthday Party,Normal
+624.76,60,Cash,Sunday,Dinner,Couple,Female,Date,Drunk
+1140.72,100,Cash,Sunday,Lunch,Couple,Male,Festival,Normal
+417.09,20,Cash,Sunday,Dinner,Couple,Female,Date,Normal
+1761.59,165,Cash,Sunday,Lunch,Couple,Male,Festival,Normal
+2065.65,245,Cash,Sunday,Lunch,Friends,Male,Anniversary,Drunk
+1502.48,152,Cash,Sunday,Dinner,Friends,Male,Date,Drunk
+4177.94,412,Cash,Sunday,Dinner,Friends,Male,Birthday Party,Normal
+1912.42,191,Cash,Sunday,Dinner,Family,Female,Festival,Normal
+1548.49,123,Cash,Sunday,Dinner,Family,Female,Festival,Drunk
+2804.94,239,Cash,Sunday,Dinner,Friends,Male,Date,Drunk
+876.44,60.34,Cash,Sunday,Dinner,Couple,Female,Anniversary,Drunk
+4050.55,421,Cash,Sunday,Lunch,Couple,Female,Date,Normal
+557.84,32,Card,Monday,Dinner,Couple,Female,Anniversary,Drunk
+4937.06,324.1,Cash,Monday,Dinner,Couple,Male,Anniversary,Drunk
+3906.77,345,Card,Monday,Lunch,Couple,Male,Anniversary,Normal
+1153.84,112,Online,Saturday,Dinner,Friends,Female,Anniversary,Drunk
+226.51,20,Online,Saturday,Dinner,Family,Male,Anniversary,Drunk
+4114.21,412,Card,Saturday,Dinner,Couple,Female,Anniversary,Drunk
+3592.92,324.5,Card,Saturday,Lunch,Friends,Male,Date,Drunk
+3699.23,342,Cash,Saturday,Dinner,Couple,Male,Birthday Party,Drunk
+3902.1,342,Online,Saturday,Dinner,Couple,Male,Birthday Party,Drunk
+555.41,52,Online,Saturday,Dinner,Friends,Male,Birthday Party,Drunk
+1920.64,165,Card,Saturday,Lunch,Family,Male,Birthday Party,Drunk
+756.17,65,Cash,Sunday,Dinner,Family,Male,Birthday Party,Normal
+4342.9,432,Online,Saturday,Dinner,Family,Male,Birthday Party,Normal
+3191.83,312,Online,Friday,Dinner,Family,Male,Birthday Party,Drunk
+1788.31,123.5,Cash,Saturday,Dinner,Family,Male,Birthday Party,Drunk
+505.08,49.4,Cash,Monday,Dinner,Family,Male,Birthday Party,Normal
+1692.72,154,Online,Friday,Dinner,Family,Male,Birthday Party,Drunk
+1760.88,145,Online,Monday,Dinner,Family,Male,Birthday Party,Drunk
+3702.11,354,Cash,Friday,Dinner,Friends,Male,Anniversary,Normal
+3260.28,234,Cash,Sunday,Lunch,Single,Male,Date,Drunk
+4458.62,342,Cash,Sunday,Dinner,Friends,Female,Anniversary,Drunk
+2466.63,231,Cash,Sunday,Dinner,Friends,Female,Date,Drunk
+774.05,43,Cash,Saturday,Lunch,Family,Female,Date,Drunk
+3623.57,312.4,Cash,Saturday,Dinner,Single,Male,Anniversary,Drunk
+3851.77,274,Cash,Saturday,Dinner,Single,Male,Date,Drunk
+2894.13,234,Card,Sunday,Dinner,Friends,Female,Festival,Drunk
+3900.64,352,Online,Monday,Dinner,Couple,Male,Birthday Party,Drunk
+2570.22,213,Card,Sunday,Lunch,Family,Male,Date,Drunk
+2709.12,211,Online,Sunday,Dinner,Family,Male,Festival,Normal
+2252.2,256,Card,Sunday,Lunch,Family,Male,Date,Drunk
+322.01,20,Online,Sunday,Dinner,Family,Female,Birthday Party,Drunk
+717.88,50,Card,Sunday,Dinner,Single,Male,Festival,Drunk
+350.86,34,Cash,Monday,Lunch,Single,Male,Birthday Party,Drunk
+3254.77,321,Card,Monday,Dinner,Couple,Male,Birthday Party,Normal
+1708.91,149,Online,Sunday,Dinner,Couple,Male,Festival,Normal
+2641.14,245,Card,Saturday,Dinner,Couple,Female,Festival,Drunk
+4556.32,357,Card,Saturday,Lunch,Couple,Female,Festival,Normal
+1396.6,132,Card,Monday,Dinner,Couple,Male,Anniversary,Drunk
+2169.84,234,Cash,Saturday,Lunch,Couple,Male,Festival,Normal
+3826.65,315,Card,Friday,Dinner,Couple,Male,Festival,Normal
+1298.23,126,Cash,Saturday,Lunch,Couple,Male,Festival,Drunk
+569.5,54,Cash,Saturday,Lunch,Single,Male,Festival,Normal
+1590.81,134,Card,Saturday,Dinner,Couple,Male,Date,Drunk
+973.86,64,Card,Saturday,Dinner,Couple,Female,Anniversary,Normal
+4662.55,461,Card,Saturday,Lunch,Single,Male,Birthday Party,Drunk
+4078.98,342,Online,Saturday,Lunch,Family,Female,Birthday Party,Drunk
+3240.34,245,Card,Saturday,Dinner,Family,Female,Birthday Party,Normal
+4383.01,354,Cash,Saturday,Lunch,Couple,Male,Birthday Party,Normal
+4057.63,325,Card,Saturday,Dinner,Couple,Male,Birthday Party,Drunk
+1095.54,75,Online,Saturday,Dinner,Family,Male,Birthday Party,Normal
+4484.28,412,Card,Sunday,Dinner,Family,Male,Birthday Party,Normal
+2788.84,255,Online,Sunday,Dinner,Couple,Female,Birthday Party,Drunk
+4075.71,394,Online,Sunday,Lunch,Friends,Female,Anniversary,Drunk
+4501.24,432,Card,Sunday,Dinner,Single,Female,Date,Normal
+1726.42,152,Cash,Sunday,Lunch,Couple,Male,Birthday Party,Drunk
+728.25,56,Online,Sunday,Dinner,Couple,Female,Birthday Party,Drunk
+124.09,12,Card,Sunday,Lunch,Friends,Female,Birthday Party,Drunk
+250.12,23,Card,Sunday,Dinner,Friends,Female,Anniversary,Normal
+426.47,43,Cash,Friday,Lunch,Family,Male,Date,Normal
+331.51,23,Online,Saturday,Lunch,Single,Female,Festival,Drunk
+233.37,43,Online,Friday,Dinner,Single,Male,Anniversary,Normal
+651.59,54,Card,Saturday,Dinner,Family,Female,Anniversary,Drunk
+220.57,23,Card,Saturday,Dinner,Family,Male,Anniversary,Normal
+1266.12,224,Cash,Saturday,Dinner,Family,Male,Anniversary,Drunk
+775.35,23,Cash,Saturday,Lunch,Family,Female,Anniversary,Drunk
+1820.55,190,Online,Saturday,Dinner,Single,Female,Anniversary,Normal
+45.97,3,Online,Sunday,Lunch,Single,Male,Anniversary,Drunk
+1751.37,132,Card,Sunday,Lunch,Friends,Female,Festival,Normal
+290.19,23,Online,Sunday,Dinner,Single,Male,Date,Normal
+574.49,43,Cash,Sunday,Lunch,Friends,Male,Festival,Drunk
+145.42,23,Cash,Sunday,Lunch,Single,Male,Date,Drunk
+484.55,42,Card,Sunday,Lunch,Family,Male,Anniversary,Normal
+489.75,23,Cash,Sunday,Lunch,Couple,Male,Birthday Party,Drunk
+1408.56,109,Cash,Sunday,Dinner,Couple,Female,Anniversary,Drunk
+586.79,43,Cash,Sunday,Dinner,Couple,Male,Anniversary,Drunk
+144.22,23,Cash,Sunday,Dinner,Couple,Male,Date,Drunk
+1567.23,123,Card,Saturday,Dinner,Couple,Female,Anniversary,Drunk
+377.06,43,Card,Saturday,Lunch,Couple,Male,Date,Normal
+125.91,23,Online,Saturday,Lunch,Couple,Female,Festival,Normal
+2612.86,242,Cash,Saturday,Dinner,Couple,Female,Festival,Drunk
+447.1,43,Online,Sunday,Dinner,Friends,Female,Date,Drunk
+1537.5,123,Card,Saturday,Dinner,Couple,Male,Festival,Drunk
+459.68,43,Cash,Monday,Lunch,Single,Male,Birthday Party,Normal
+1349.9,143,Card,Monday,Dinner,Friends,Male,Anniversary,Drunk
+895.5,43,Card,Monday,Dinner,Couple,Female,Birthday Party,Drunk
+249.37,24,Card,Sunday,Dinner,Family,Male,Anniversary,Drunk
+431.12,54,Card,Monday,Dinner,Family,Female,Festival,Drunk
+1361.87,150,Card,Monday,Dinner,Friends,Male,Birthday Party,Drunk
+3426.25,234,Cash,Sunday,Dinner,Couple,Female,Festival,Normal
+355.77,23,Online,Friday,Dinner,Couple,Male,Anniversary,Drunk
+1340.66,121,Card,Sunday,Dinner,Couple,Male,Date,Normal
+395.44,32,Cash,Monday,Dinner,Couple,Male,Date,Drunk
+165.36,34,Cash,Sunday,Dinner,Couple,Female,Birthday Party,Normal
+456,43,Cash,Friday,Dinner,Single,Female,Festival,Drunk
+340.94,34,Cash,Sunday,Dinner,Couple,Male,Festival,Normal
+2771.72,254,Cash,Monday,Dinner,Family,Male,Birthday Party,Drunk
+633.39,63,Cash,Friday,Lunch,Friends,Female,Birthday Party,Drunk
+429.45,42,Cash,Saturday,Lunch,Friends,Female,Birthday Party,Drunk
+1739.74,171,Cash,Monday,Dinner,Family,Female,Birthday Party,Drunk
+1095.29,100,Cash,Friday,Lunch,Couple,Male,Birthday Party,Normal
+395.72,43,Cash,Friday,Lunch,Family,Female,Birthday Party,Normal
+336.29,42,Online,Saturday,Lunch,Family,Male,Birthday Party,Drunk
+352.31,24,Card,Sunday,Dinner,Family,Female,Birthday Party,Normal
+279.62,43,Card,Sunday,Dinner,Family,Male,Birthday Party,Drunk
+2658.05,190,Online,Monday,Dinner,Friends,Male,Festival,Drunk
+1287.18,132,Card,Saturday,Dinner,Family,Male,Birthday Party,Normal
+326.83,23,Cash,Sunday,Dinner,Friends,Male,Birthday Party,Drunk
+1036.96,101,Card,Saturday,Lunch,Friends,Male,Date,Drunk
+3516.5,235,Cash,Sunday,Dinner,Friends,Male,Birthday Party,Normal
+206.33,32,Online,Friday,Lunch,Couple,Male,Birthday Party,Drunk
+496.3,43,Card,Sunday,Lunch,Single,Male,Birthday Party,Drunk
+860.1,23,Online,Saturday,Dinner,Friends,Male,Birthday Party,Drunk
+1837.12,139,Card,Friday,Dinner,Friends,Male,Birthday Party,Drunk
+744.67,72,Cash,Friday,Lunch,Couple,Male,Date,Normal
+4638.53,412,Online,Friday,Lunch,Couple,Female,Anniversary,Normal
+4411.23,312,Card,Saturday,Lunch,Couple,Male,Anniversary,Normal
+1438.12,113,Cash,Monday,Dinner,Couple,Female,Birthday Party,Drunk
+337.92,23,Online,Monday,Dinner,Couple,Female,Date,Drunk
+412.67,43,Online,Monday,Dinner,Couple,Male,Date,Normal
+2864.96,162,Card,Saturday,Dinner,Couple,Female,Festival,Drunk
+2742.32,234,Card,Friday,Dinner,Couple,Male,Birthday Party,Drunk
+1360.89,102,Card,Monday,Lunch,Couple,Male,Date,Drunk
+646.89,43,Cash,Saturday,Dinner,Couple,Female,Birthday Party,Drunk
+506.64,64,Card,Monday,Lunch,Family,Male,Birthday Party,Normal
+452.01,43,Online,Sunday,Lunch,Couple,Female,Birthday Party,Normal
+3238.89,421,Online,Monday,Lunch,Family,Female,Birthday Party,Normal
+1827.34,142,Card,Monday,Dinner,Couple,Male,Birthday Party,Drunk
+1876.21,123,Card,Friday,Dinner,Family,Male,Date,Normal
+384.59,43,Online,Saturday,Dinner,Friends,Male,Birthday Party,Normal
+406.13,54,Cash,Friday,Lunch,Single,Male,Date,Drunk
+458.01,64,Card,Friday,Lunch,Family,Female,Festival,Drunk
+343.4,31,Card,Friday,Lunch,Family,Female,Birthday Party,Normal
